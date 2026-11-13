@@ -1,6 +1,6 @@
 spring:
   application:
-    name: flake-rader
+    name: flake-radar
 
   jpa:
     open-in-view: false

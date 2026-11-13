@@ -6,7 +6,7 @@ plugins {
 
 group = "com.zoonza"
 version = "0.0.1-SNAPSHOT"
-description = "flake-rader"
+description = "flake-radar"
 
 java {
     toolchain {

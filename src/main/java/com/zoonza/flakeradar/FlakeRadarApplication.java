@@ -1,13 +1,13 @@
-package com.zoonza.flakerader;
+package com.zoonza.flakeradar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FlakeRaderApplication {
+public class FlakeRadarApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FlakeRaderApplication.class, args);
+        SpringApplication.run(FlakeRadarApplication.class, args);
     }
 
 }

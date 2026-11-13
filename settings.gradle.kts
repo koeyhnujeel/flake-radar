@@ -1,1 +1,1 @@
-rootProject.name = "flake-rader"
+rootProject.name = "flake-radar"

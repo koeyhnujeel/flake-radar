@@ -1,4 +1,4 @@
-package com.zoonza.flakerader;
+package com.zoonza.flakeradar;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;
