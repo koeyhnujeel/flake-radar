@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: flake-rader
+
+  jpa:
+    open-in-view: false
